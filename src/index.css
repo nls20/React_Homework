@@ -5,9 +5,35 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.films {
+  outline-style: 2px solid black;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+a {
+  justify-items: center;
+  display: block; 
+}
+
+li { 
+ text-align: left;
+}
+
+button {
+  background: lightblue;
+  font: 5px;
+  font-weight: 5px;
 }
